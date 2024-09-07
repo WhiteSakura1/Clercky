@@ -50,7 +50,7 @@ a {
 .first-section {
     background-color: #163A24;
     height: calc(100vh - 98px);
-    background-image: url(../img/frame1.webp);
+    background-image: url(frame1.webp);
     background-size: contain;
     background-repeat: no-repeat;
 }
